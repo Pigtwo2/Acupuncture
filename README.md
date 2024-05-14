@@ -1,2 +1,2 @@
 # Acupuncture
-The dataset will be made publicly available after the paper is accepted.
+The dataset is to be released soon.
